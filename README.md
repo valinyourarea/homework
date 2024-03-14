@@ -16,6 +16,3 @@ El código implementa un algoritmo llamado "Kadane's algorithm" que encuentra la
 
 5. **Impresión de resultados**: Después de salir del bucle, imprimimos el subarray máximo encontrado y su suma máxima.
 
-~~~python
-hola
-~~~
