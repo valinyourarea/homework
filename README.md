@@ -15,3 +15,7 @@ El código implementa un algoritmo llamado "Kadane's algorithm" que encuentra la
 4. **Manejo de sumas negativas**: Si la suma del subarray actual se vuelve negativa, es mejor comenzar desde cero nuevamente. Por lo tanto, si `array_max` es negativo, lo reiniciamos a cero y actualizamos `startI` al siguiente índice.
 
 5. **Impresión de resultados**: Después de salir del bucle, imprimimos el subarray máximo encontrado y su suma máxima.
+
+~~~python
+hola
+~~~
